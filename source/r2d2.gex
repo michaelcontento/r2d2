@@ -1,0 +1,12 @@
+[General]
+Name=r2d2
+Project=1
+[Classes]
+Count=7
+Class0="TMainForm","TForm","Main","9","H:\Coding\Delphi\r2d2_03.07.2005\source\Main.pas"
+Class1="TMap","TObject","uMap","9","H:\Coding\Delphi\r2d2_03.07.2005\source\uMap.pas"
+Class2="TCellDef","TObject","uCell","9","H:\Coding\Delphi\r2d2_03.07.2005\source\uCell.pas"
+Class3="TR2D2","TObject","uR2D2","8","H:\Coding\Delphi\r2d2_03.07.2005\source\uR2D2.pas"
+Class4="TGame","TObject","uGame","16","H:\Coding\Delphi\r2d2_03.07.2005\source\uGame.pas"
+Class5="TCellList","TObject","uCellList","9","H:\Coding\Delphi\r2d2_03.07.2005\source\uCellList.pas"
+Class6="TForm1","TForm","uSplash","9","H:\Coding\Delphi\r2d2_03.07.2005\source\uSplash.pas"
